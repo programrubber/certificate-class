@@ -1,0 +1,15 @@
+{
+  "name": "certificate-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "programrubber <rafalefly@naver.com>",
+  "license": "Apache License",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "sshpk": "^1.14.1"
+  }
+}
