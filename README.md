@@ -1,2 +1,2 @@
 # certificate-class
-Test code to identify the hierarchy of the ssl certificate
+Test code to identify the class of the ssl certificate
